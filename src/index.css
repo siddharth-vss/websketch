@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+canvas {
+    filter: brightness(300%);
+  /* background-image: url(https://spgaming2056.w3spaces.com/favicon_io/android-chrome-512x512.png); */
+  background-color:hsl(150, 82%, 24%);
+}
+nav{
+  background-color: #8dd7ff;
+  display: flex;
+  justify-content: space-around;
+  height: 50px;
+  align-items: center;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+@media screen and (min-width: 992px) {
+  #main{
+    display: flex;
+    flex-direction: row;
+  }
+  #main>div{
+    height: 100vh !important;
+    width: 50vw !important;
+  }
+  #bgc{
+    width: 100vw;
+    height: 100vh;
+    background-position:center;
+  }
+  canvas{
+    background-color: transparent;
+  }
+}
+@media screen and (max-width: 992px) {
+  #main{
+    display: flex;
+    flex-direction: column;
+  }
+  #main>div{
+    height: 50vh !important;
+    width: 100vw !important;
+    overflow: hidden;
+  }
+  
+  #bgc{
+    height: 50vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+}
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	'33 Ford Coupe -Low poly model
+* source:	https://sketchfab.com/3d-models/33-ford-coupe-low-poly-model-1f00f875bd594469ad41e377585dc0fc
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "'33 Ford Coupe -Low poly model" (https://sketchfab.com/3d-models/33-ford-coupe-low-poly-model-1f00f875bd594469ad41e377585dc0fc) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
